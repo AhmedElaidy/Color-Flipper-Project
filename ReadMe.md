@@ -4,9 +4,9 @@ Color Flipper readme file
 <hr>
 ## The languages that i used:
 <hr>
-- HTML
-- CSS
-- JAVASCRIPT
+- JAVASCRIPT <br>
+- HTML <br>
+- CSS <br>
 <hr>
 ## The Functionalities:
 <hr>
